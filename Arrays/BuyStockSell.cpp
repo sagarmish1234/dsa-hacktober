@@ -1,3 +1,4 @@
+// Program for buying Stocks
 #include <iostream>
 using namespace std;
 int maxProfit(int price[], int n)
@@ -18,3 +19,4 @@ int main()
     cout<<maxProfit(arr,5);
     return 0;
 }
+// End of the program
